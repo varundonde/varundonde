@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**varundonde/varundonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Varun, an ECE student at Carnegie Mellon University with interests in Computer Systems, Computer Architecture, and Computer Vision. You can reach me via my personal email varunmdonde@gmail.com, or my CMU affiliated email, vdonde@andrew.cmu.edu. 
 
-Here are some ideas to get you started:
+My current work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working for Alteredverse, a startup in the digital twin industry, where I'm working on the implementation, testing and modification of various Computer Vision and Machine Learning models from novel papers in industry (private repo). Additionally, I'm doing undergraduate research on the STEPR Project under the CMU Human Computer Interaction Institute, and writing Photogrammtery and Automation software for KnitFit, a Singapore based startup which focuses on making exact fit medical garments for patients.
+
+Some stuff I've previously worked on:
+  
+- [Sternhalma]([url](https://github.com/varundonde/sternhalma)): An implementation of multiplayer Chinese Checkers, with various AI difficulties that you can challenge yourself against. [Demo]([url](https://youtu.be/tDjLDnwg4sE))
+
+- [Dancing Queen / KKB Dance]([url](https://github.com/varundonde/DancingQueen)): An interactive computer vision game which combines elements of the popular JustDance, and Osu. [Demo]([url](https://www.youtube.com/watch?v=zFXRLTc7a5A))
+
+- [Claw Machine (Spring Carnival Booth 2024)]([url](https://github.com/varundonde/Claw-Machine-Booth-2024)): As a member of the electrical team for SSA booth, we made a fully functional one axis claw machine!
+
+
+
+
+
+
+
+
+
