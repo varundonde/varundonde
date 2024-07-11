@@ -6,7 +6,7 @@ My current work:
 
 - Implementation, testing and modification of various Computer Vision and Machine Learning models from novel papers in industry (private repo) for Alteredverse, a startup in the digital twin industry. 
   
-- Undergraduate research on the STEPR Project under the CMU Human Computer Interaction Institute
+- Undergraduate research on the STEPR Project under the CMU Human Computer Interaction Institute.
   
 - Writing Photogrammtery and Automation software for KnitFit, a Singapore based startup which focuses on making exact fit medical garments for patients.
 
