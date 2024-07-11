@@ -8,11 +8,11 @@ My current work:
 
 Some stuff I've previously worked on:
   
-- [Sternhalma]([url](https://github.com/varundonde/sternhalma)): An implementation of multiplayer Chinese Checkers, with various AI difficulties that you can challenge yourself against. [Demo]([url](https://youtu.be/tDjLDnwg4sE))
+- [Sternhalma]([https://github.com/varundonde/sternhalma]): An implementation of multiplayer Chinese Checkers, with various AI difficulties that you can challenge yourself against. [Demo]([(https://youtu.be/tDjLDnwg4sE)])
 
-- [Dancing Queen / KKB Dance]([url](https://github.com/varundonde/DancingQueen)): An interactive computer vision game which combines elements of the popular JustDance, and Osu. [Demo]([url](https://www.youtube.com/watch?v=zFXRLTc7a5A))
+- [Dancing Queen / KKB Dance]([(https://github.com/varundonde/DancingQueen)]): An interactive computer vision game which combines elements of the popular JustDance, and Osu. [Demo]([(https://www.youtube.com/watch?v=zFXRLTc7a5A)])
 
-- [Claw Machine (Spring Carnival Booth 2024)]([url](https://github.com/varundonde/Claw-Machine-Booth-2024)): As a member of the electrical team for SSA booth, we made a fully functional one axis claw machine!
+- [Claw Machine (Spring Carnival Booth 2024)]([(https://github.com/varundonde/Claw-Machine-Booth-2024)]): As a member of the electrical team for SSA booth, we made a fully functional one axis claw machine!
 
 
 
