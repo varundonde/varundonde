@@ -4,7 +4,11 @@ I'm Varun, an ECE student at Carnegie Mellon University with interests in Comput
 
 My current work:
 
-- I'm currently working for Alteredverse, a startup in the digital twin industry, where I'm working on the implementation, testing and modification of various Computer Vision and Machine Learning models from novel papers in industry (private repo). Additionally, I'm doing undergraduate research on the STEPR Project under the CMU Human Computer Interaction Institute, and writing Photogrammtery and Automation software for KnitFit, a Singapore based startup which focuses on making exact fit medical garments for patients.
+- Implementation, testing and modification of various Computer Vision and Machine Learning models from novel papers in industry (private repo) for Alteredverse, a startup in the digital twin industry. 
+  
+- Undergraduate research on the STEPR Project under the CMU Human Computer Interaction Institute
+  
+- Writing Photogrammtery and Automation software for KnitFit, a Singapore based startup which focuses on making exact fit medical garments for patients.
 
 Some stuff I've previously worked on:
   
