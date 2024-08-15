@@ -14,7 +14,7 @@ Some stuff I've previously worked on:
 
 - [Claw Machine (Spring Carnival Booth 2024 🕹)](https://github.com/varundonde/Claw-Machine-Booth-2024): As a member of the electrical team for SSA booth, we made a fully functional one axis claw machine!
   
-- KnitFit 🩹: Wrote photogrammetry and automation software to help create custom fit compression garments for recovering patients (private repo)
+- [KnitFit 🩹](https://knit.fit/): Wrote photogrammetry and automation software to help create custom fit compression garments for recovering patients (private repo). 
 
 
 
