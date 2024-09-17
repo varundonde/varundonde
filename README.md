@@ -5,6 +5,7 @@ I'm Varun, an ECE student at Carnegie Mellon University with interests in Comput
 My current work:
   
 - Undergraduate research on the STEPR Project under the CMU Human Computer Interaction Institute.
+- Teaching assistant for 15-112: Fundamentals of Programming and Computer Science :)
   
 Some stuff I've previously worked on:
   
