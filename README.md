@@ -6,4 +6,4 @@ My current work:
   
 - Teaching assistant for 15-112: Fundamentals of Programming and Computer Science
 - SketchDB Project under Prof. Sekar's Group @ CyLab
-- Incoming @ AWS for Summer 2025
+- Incoming SDE Intern @ AWS for Summer 2025
