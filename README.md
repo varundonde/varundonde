@@ -5,4 +5,3 @@ I'm Varun, an ECE student at Carnegie Mellon University with interests in Comput
 My current work:
   
 - SketchDB Project under Prof. Sekar's Group @ CyLab
-- SDE Intern @ AWS for Summer 2025
