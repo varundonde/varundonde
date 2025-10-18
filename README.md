@@ -4,4 +4,4 @@ I'm Varun, an ECE student at Carnegie Mellon University with interests in Comput
 
 My current work:
   
-- SketchDB Project under Prof. Sekar's Group @ CyLab
+- ProjectASAP under Prof. Sekar's Group @ CyLab, Advised by Milind Srivastava
