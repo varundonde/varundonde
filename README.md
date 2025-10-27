@@ -7,3 +7,4 @@ My current work:
 
 Previously:
 - Software Engineer Intern @ AWS, EC2 Core Platform
+- TA for 15-112: Fundamentals of Programming
